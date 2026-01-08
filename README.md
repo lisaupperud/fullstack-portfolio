@@ -38,6 +38,7 @@ Links to:
 
 ## How to Explore This Project
 
+Please click the links above to explore the codebases, API documentation and documentation of development process.
 
 
 
