@@ -18,8 +18,8 @@ One frontend repository
 One backend repository
 
 ## Architecture
-(opt<img width="1536" height="1024" alt="Fullstack arkitekturdiagram" src="https://github.com/user-attachments/assets/6066b55b-08ac-4e83-8db9-1137a8db0295" />
-ional but great)
+<img width="1536" height="1024" alt="Fullstack arkitekturdiagram" src="https://github.com/user-attachments/assets/6066b55b-08ac-4e83-8db9-1137a8db0295" />
+
 
 ## Tech Stack
 Tech stack (high-level)
