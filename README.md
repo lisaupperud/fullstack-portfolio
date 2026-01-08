@@ -5,7 +5,21 @@
 
 ## Overview
 
-Project description & purpose
+### Short Description
+
+A fullstack portfolio application designed to clearly and personally represent me as a developer, while showcasing my technical skills, experience, and projects.
+
+### Project Overview
+
+This project is a new initiative that builds upon a previous portfolio I developed as a frontend-only application using Angular. In this version, the goal was to further develop the portfolio into a fullstack project in order to broaden and deepen my technical skill set.
+
+The project involves moving data handling from the frontend to a backend consisting of an API connected to a MongoDB database. All information about the projects presented in the frontend is stored and managed in the database, enabling more structured and scalable data management.
+
+Through this project, I aimed to create a complete portfolio that clearly and personally represents me as a developer. The portfolio is intended to showcase my technical skills, knowledge, and the technology stacks I work with. Both the development process itself and the presentation of previous projects are used to highlight my growth and competence as a programmer.
+
+### Purpose & Goals
+
+The purpose of this project is to create a portfolio that can be used to present my technical skills, knowledge, and the technology stacks I am proficient in. By developing the portfolio itself and highlighting previous projects, the goal is to clearly demonstrate my competence and development as a programmer.
 
 ### How This Project Is Structured
 
