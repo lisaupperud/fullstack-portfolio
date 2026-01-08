@@ -1,8 +1,5 @@
 # Fullstack Portfolio
 
-# 💡 This README answers:
-“What is this project and why should I care?”
-
 ## Overview
 
 ### Short Description
@@ -36,7 +33,27 @@ One backend repository
 
 
 ## Tech Stack
-Tech stack (high-level)
+**Backend**
+
+ * Java – backend programming language
+
+ * Spring Boot – framework for building the API
+
+ * MongoDB – NoSQL database for storing project data
+
+**Frontend**
+
+ * React – frontend framework
+
+ * TypeScript, HTML & CSS – for structure, logic, and styling
+
+**Deployment & Infrastructure**
+
+ * Docker – containerization of the backend application
+
+ * Render – hosting and deployment of the backend API
+
+ * Vercel – hosting and deployment of the frontend application
 
 ## Repositories
 
