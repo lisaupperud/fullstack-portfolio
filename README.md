@@ -6,6 +6,8 @@
 
 A fullstack portfolio application designed to clearly and personally represent me as a developer, while showcasing my technical skills, experience, and projects.
 
+You can find the final portfolio [here](https://lisaupperud.vercel.app/).
+
 ### Project Overview
 
 This project is a new initiative that builds upon a previous portfolio I developed as a frontend-only application using Angular. In this version, the goal was to further develop the portfolio into a fullstack project in order to broaden and deepen my technical skill set.
