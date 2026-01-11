@@ -55,6 +55,8 @@ One backend repository
 
  * Render – hosting and deployment of the backend API
 
+ * GitHub Actions – scheduled health checks to prevent the deployed API from idling
+
  * Vercel – hosting and deployment of the frontend application
 
 ## Repositories
